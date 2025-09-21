@@ -1,2 +1,2 @@
-# LearningReact
-dump of stuff im using to learn react
+# GIS Practice Project
+Mini project to practice GIS
